@@ -4,5 +4,5 @@ module.exports = defineConfig({
   viewportHeight: 880,
   viewportWidth: 1280,
   e2e: {},
-  projectId: 'a61ri66',
+  projectId: "61ri66",
 })
